@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-0iv8he.gmspi.com.br/sitemap.xml
